@@ -1,0 +1,15 @@
+{
+    "name": "Stage 1 SBT",
+    "description": "Congratulations! You cleared Stage 1.",
+    "image": "https://Chiiko.github.io/sbt_sample/assets/images/1.png",
+    "attributes": [
+        {
+            "trait_type": "Stage",
+            "value": 1
+        },
+        {
+            "trait_type": "Difficulty",
+            "value": "Easy"
+        }
+    ]
+}
